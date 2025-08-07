@@ -2,6 +2,8 @@
 
 A seven-segment display widget for the Node-RED Dashboard 2.0.
 
+![Example](https://github.com/user-attachments/assets/e25f0bad-04b4-467a-a2bd-90782909b6f7)
+
 ## Installation
 
 You can install this node from the "Manage Palette" menu in the Node-RED interface.

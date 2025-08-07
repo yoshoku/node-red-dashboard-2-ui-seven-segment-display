@@ -225,16 +225,16 @@ export default {
 }
 
 .dot {
-   width: 12px;
-   height: 12px;
-   border-radius: 50%;
-   position: absolute;
-   bottom: 6px;
-   right: 4px;
-   background-color: #666;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 6px;
+    right: 4px;
+    background-color: #666;
 }
 
 .dot.active {
-   background-color: #f00;
+    background-color: #f00;
 }
 </style>

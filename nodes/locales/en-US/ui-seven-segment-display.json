@@ -1,0 +1,8 @@
+{
+    "ui-seven-segment-display" : {
+        "label": {
+            "group": "Group",
+            "value": "Value"
+        }
+    }
+}

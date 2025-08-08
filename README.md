@@ -2,7 +2,7 @@
 
 A seven-segment display widget for the Node-RED Dashboard 2.0.
 
-![Example](https://github.com/user-attachments/assets/e25f0bad-04b4-467a-a2bd-90782909b6f7)
+![Example](https://github.com/user-attachments/assets/485c30d2-e594-4bbb-b3fe-84b8331cf8b4)
 
 ## Installation
 

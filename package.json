@@ -1,6 +1,6 @@
 {
     "name": "@yoshoku/node-red-dashboard-2-ui-seven-segment-display",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "A seven-segment display widget for the Node-RED Dashboard 2.0",
     "keywords": [
         "node-red",

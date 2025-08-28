@@ -1,3 +1,4 @@
+import { URL, fileURLToPath } from 'node:url'
 import { resolve } from 'path'
 
 import vue from '@vitejs/plugin-vue'
@@ -8,6 +9,8 @@ import { viteStaticCopy } from 'vite-plugin-static-copy'
 // Set to this to the name of this collection of components
 // This must match node-red-dashboard-2.widgets[libraryName] in package.json
 const LIBRARY_NAME = 'ui-seven-segment-display'
+
+const __dirname = fileURLToPath(new URL('.', import.meta.url))
 
 // https://vitejs.dev/config/
 export default defineConfig({

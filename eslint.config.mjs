@@ -45,6 +45,13 @@ export default [
     },
 
     {
+        files: ['vite.config.mjs'],
+        rules: {
+            'import/no-unresolved': 'off'
+        }
+    },
+
+    {
         files: ['nodes/**/*'],
         languageOptions: {
             sourceType: 'commonjs'
